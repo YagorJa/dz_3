@@ -29,3 +29,4 @@ public class Store {
         this.products = products;
     }
 }
+// не захотел реализовывать магазин
